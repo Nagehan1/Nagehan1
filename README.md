@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagehan1&hide=ruby,)](https://github.com/Nagehan1/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api?username=Nagehan1&show_icons=true&theme=radical
+![Nagehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagehan1&show_icons=true&theme=radical)
