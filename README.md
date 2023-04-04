@@ -1,9 +1,15 @@
-Hello! I'm Nagehan and full stack developer. I really enjoy learning languages and frameworks like React. 
+<h1 align="center">Hi 👋, I'm Nagehan</h1>
+<h3 align="center">A passionate full stack developer based in Leicester </h3>
+
+- 🔭 I’m currently working on **my blog app**
+
+- 🌱 I’m currently learning **MongoDB , MYSQL**
+
+- 👨‍💻 All of my projects are available at Coming soon ...
 
 
-- :telescope: I’m currently working on 
-- :seedling: I’m currently learning fornt-end and back-end using Javascript, HTML ,CSS, React ,Node, Express....
-- :dancers: I’m looking to collaborate on ...
+Hello! I'm  and full stack developer. I really enjoy learning languages and frameworks like React. 
+
 - :mailbox: How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagehan-uyumaz-5a4646209/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:uyumaznagehan@gmail.com)
