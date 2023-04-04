@@ -1,13 +1,13 @@
 Hello! I'm Nagehan and full stack developer. I really enjoy learning languages and frameworks like React. 
 
-<!--
+
 **Nagehan1/Nagehan1** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :telescope: I’m currently working on to become a full-stack developer.
 - :seedling: I’m currently learning fornt-end and back-end using Javascript, HTML ,CSS, React ,Node, Express....
 - :dancers: I’m looking to collaborate on ...
 - :mailbox: How to reach me: ...https://www.linkedin.com/in/nagehan-uyumaz-5a4646209/
--->
+
 
 
 
