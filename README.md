@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Build AI Apps with ChatGPT, DALL-E, and GPT-4 **
 
-- 🌱 I’m currently working  **backend side**
+- 🌱 I’m currently working with  **CYF Product Next Team**
 
 - 👨‍💻 All of my new projects are available at Coming soon ...
 
