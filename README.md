@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nagehan</h1>
 <h3 align="center">A passionate full stack developer based in Leicester </h3>
 
-- 🔭 I’m currently working on **my blog app**
+- 🔭 I’m currently working on **Build AI Apps with ChatGPT, DALL-E, and GPT-4 **
 
-- 🌱 I’m currently learning **MongoDB , MYSQL**
+- 🌱 I’m currently working  **backend side**
 
-- 👨‍💻 All of my projects are available at Coming soon ...
+- 👨‍💻 All of my new projects are available at Coming soon ...
 
 
 Hello! I'm  and full stack developer. I really enjoy learning languages and frameworks like React. 
