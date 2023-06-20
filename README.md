@@ -8,7 +8,7 @@
 - 👨‍💻 All of my new projects are available at Coming soon   ...
 
 
-Hello! I'm  and full stack developer. I really enjoy learning languages and frameworks like React. 
+Hello! I'm  and full stack developer. I really enjoy learning new skills and tools. 
 
 - :mailbox: How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagehan-uyumaz-5a4646209/)
