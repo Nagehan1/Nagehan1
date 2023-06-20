@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with  **CYF Product Next Team**
 
-- 👨‍💻 All of my new projects are available at Coming soon ...
+- 👨‍💻 All of my new projects are available at Coming soon   ...
 
 
 Hello! I'm  and full stack developer. I really enjoy learning languages and frameworks like React. 
