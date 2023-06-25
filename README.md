@@ -15,7 +15,7 @@ Hello! I'm  and full stack developer. I really enjoy learning new skills and too
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:uyumaznagehan@gmail.com)
 
 
-I'm always open to new opportunities and collaborations.Contact me!
+I'm always open to new opportunities and collaborations. JUst contact me!
 
 
 
