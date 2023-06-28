@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nagehan</h1>
 <h3 align="center">A passionate full stack developer based in Leicester </h3>
 
-- I"m currently learning Hasura GraphQL
+- I"m currently learning Hasura and GraphQL
   
 - 🔭 I’m currently working on **Build AI Apps with ChatGPT, DALL-E, and GPT-4 **
 
