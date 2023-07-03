@@ -20,7 +20,6 @@ Hello! I'm  and full stack developer. I really enjoy learning new skills and too
 I'm always open to new opportunities and collaborations. JUst contact me!
 
 
-
 ### :hammer_and_wrench: Languages and Tools :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagehan1&hide=ruby,)](https://github.com/Nagehan1/github-readme-stats)
 <br>
