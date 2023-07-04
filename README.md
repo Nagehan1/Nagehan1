@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full stack developer based in Leicester </h3>
 
 - I"m currently learning Hasura and GraphQL
+- I "m currently learning Docker
   
 - 🔭 I’m currently working on **Build AI Apps with ChatGPT, DALL-E, and GPT-4 **
 
