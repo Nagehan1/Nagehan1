@@ -1,4 +1,4 @@
-<h1 align="center">Hi guys!👋, I'm Nagehan</h1>
+<h1 align="center">Hi Guys!👋 I'm Nagehan</h1>
 <h3 align="center">A passionate full stack developer based in Leicester </h3>
 
 - I"m currently learning Hasura and GraphQL
