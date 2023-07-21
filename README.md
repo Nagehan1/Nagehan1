@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on **Build AI Apps with ChatGPT, DALL-E, and GPT-4 **
 
-- 🌱 I’m currently working with  **CYF Product Next Team**
+- 🌱 I’m currently working with  **CYF Product Next Team** as a volunteer.
 
 - 👨‍💻 All of my new projects are available at Coming soon   ...
 
