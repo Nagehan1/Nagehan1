@@ -3,7 +3,7 @@
 
 - I"m currently learning Hasura and GraphQL
   
-- 🔭 I’m currently working on **Build AI Apps with ChatGPT, DALL-E, and GPT-4 **
+- 🔭 I’m currently interested in Mathematical Foundations of Machine Learning
 
 - 🌱 I’m currently working with  **CYF Product Next Team** as a volunteer.
 
