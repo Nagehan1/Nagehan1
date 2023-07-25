@@ -2,8 +2,6 @@
 <h3 align="center">A passionate full stack developer based in Leicester </h3>
 
 - I"m currently learning Hasura and GraphQL
-  
-- 🔭 I’m currently interested in Mathematical Foundations of Machine Learning
 
 - 🌱 I’m currently working with  **CYF Product Next Team** as a volunteer.
 
