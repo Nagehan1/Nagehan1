@@ -1,9 +1,9 @@
 <h1 align="center">Hi!👋 I'm Nagehan☕️</h1>
 <h3 align="center">A software developer based in Leicester </h3>
 
-- I"m currently learning Hasura and GraphQL
+-I’m currently working with  **CYF Product Next Team** as a volunteer.
 
-- 🌱 I’m currently working with  **CYF Product Next Team** as a volunteer.
+- 🌱  I"m currently learning Hasura and GraphQL
 
 - 👨‍💻 All of my new projects are available at Coming soon   ...
 
