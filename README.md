@@ -49,5 +49,3 @@ I'm always open to new opportunities and collaborations. Just contact me!
 <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" alt="lighthouse" />
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" />
  
-
-![Nagehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagehan1&show_icons=true&theme=radical)
