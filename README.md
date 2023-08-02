@@ -18,9 +18,6 @@ Hello! I'm  and full stack developer. I really enjoy learning new skills and too
 I'm always open to new opportunities and collaborations. Just contact me!
 
 
-### :hammer_and_wrench: Languages and Tools :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagehan1&hide=ruby,)](https://github.com/Nagehan1/github-readme-stats)
-<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="css" />
