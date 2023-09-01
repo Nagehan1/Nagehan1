@@ -1,7 +1,7 @@
 <h1 align="center">Hi!👋 I'm Nagehan☕️</h1>
 <h3 align="center">A Full Stack developer based in Leicester </h3>
 
--I’m currently working with  **CYF Product Next Team** as a volunteer software developer .
+-I’m currently working with  **CYF Product Next Team** as a software developer .
 
 - 🌱  I"m currently interested in AI
   
