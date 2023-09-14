@@ -3,7 +3,7 @@
 
 -I’m currently working with  **CYF Product Next Team** as a software developer .
 
-- 🌱  I"m currently interested in AI
+- 🌱  I"m currently interested in AI and Python Language .
   
 
 - 👨‍💻 All of my new projects are available at Coming soon   ...
